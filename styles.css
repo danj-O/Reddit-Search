@@ -1,0 +1,9 @@
+#posts-container {
+  width: 80vw;
+  display: flex;
+  flex-direction: column;
+}
+.post {
+  margin: 10px 0px;
+  border: 1px solid black;
+}
